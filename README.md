@@ -1,1 +1,4 @@
-# order-application-react-native
+# e-commerce order application
+
+# design
+  - custom design using tailwind 
